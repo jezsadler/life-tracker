@@ -1,2 +1,2 @@
 # life-tracker
- Script that takes in data from the Misfit tracker, Daylio, Google Calendar, and a Trello board, and summarizes how I've been doing.
+ Script that takes in data from the Misfit tracker, Daylio, Google Calendar, and a Trello board, and summarizes weekly.
